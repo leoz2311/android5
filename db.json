@@ -7,67 +7,80 @@
   {
     "id": 0,
     "ime": "Silvanac zeleni",
-    "opis": "Također poznat kao Sylvaner ili Grüner Silvaner, ovo grožđe daje vina s blagom kiselosti i voćnim notama, poput jabuka i krušaka. Često se koristi za proizvodnju suhih i svježih bijelih vina."
+    "opis": "Također poznat kao Sylvaner ili Grüner Silvaner, ovo grožđe daje vina s blagom kiselosti i voćnim notama, poput jabuka i krušaka. Često se koristi za proizvodnju suhih i svježih bijelih vina.",
+    "link": "https://www.drijen.hr/wp-content/uploads/2021/09/grozde-zeleni-silvanac-slika-87549895.jpg"
   },
   {
     "id": 1,
     "ime": "Muškat ottonel",
     "opis": "Ovo je sorta grožđa poznata po intenzivnom mirisu muškata i cvjetnim notama. Vina od ovog grožđa često imaju karakterističan miris cvijeća i voća poput breskve, dinje i ruže."
+  ,"link":"https://www.drijen.hr/wp-content/uploads/2020/02/muskat-ottonel.jpg"
   },
   {
     "id": 2,
     "ime": "Muškat žuti",
     "opis": "Muškat žuti, također poznat kao Muscat Blanc à Petits Grains, poznat je po intenzivnom mirisu muškata i voćnim notama poput grožđa, limuna i cvjetova. Vina od ovog grožđa često su slatka i aromatična."
+    ,"link": "https://www.njuskalo.hr/image-w920x690/voce-povrce/muskat-zuti-slika-87165398.jpg"  
   },
   {
     "id": 3,
     "ime": "Traminac crveni",
     "opis": "Traminac, ili Gewürztraminer, je sorta grožđa koja daje vina bogata aromama cvijeća, začina i egzotičnog voća poput manga i papaje. Ova vina često imaju puno tijelo i intenzivne arome."
+  ,"link":"https://vinacroatia.hr/wp-content/uploads/2021/05/traminac-jm.jpg"
   },
   {
     "id": 4,
     "ime": "Sauvignon bijeli",
     "opis": "Sauvignon Blanc je sorta koja daje svježa, voćna vina s visokom kiselošću. Karakteriziraju ga arome zelene paprike, trave, citrusa i egzotičnog voća poput marakuje."
+  ,"link":"https://www.krizevci.net/vinograd/slike/sorte/sorte14_sauvignon_bijeli.jpg"
   },
   {
     "id": 5,
     "ime": "Graševina",
     "opis": "Također poznata kao Welschriesling, Graševina je sorta koja se često uzgaja u središnjoj Europi. Daje svijetla, osvježavajuća vina s voćnim aromama poput zelenih jabuka i citrusa, uz umjerenu kiselost."
+  ,"link":"https://www.spar.hr/content/dam/sparhrwebsite/dobar-tek/vinoteka/grasevina-slika-1.jpg/_jcr_content/renditions/responsive.665.450.noborder.16ee6f9b3b11cc7c.jpg"
   },
   {
     "id": 6,
     "ime": "Pušipel",
     "opis": "Pušipel, poznat i kao Furmint, je sorta koja se često uzgaja u Mađarskoj i daje kompleksna vina s visokom kiselošću. Karakteriziraju ga voćne arome poput kruške, jabuke i suhih marelica, te pikantne note."
+  ,"link":"https://www.njuskalo.hr/image-w920x690/voce-povrce/grozde-sipon-2.50-kg-slika-55763527.jpg"
   },
   {
     "id": 7,
     "ime": "Merlot crni",
     "opis": "Merlot je crna sorta grožđa koja se često koristi za proizvodnju mekih, voćnih vina. Tipično ima arome crvenog voća poput trešanja i šljiva, uz nježne tanine i glatku teksturu."
+  ,"link":"https://www.krizevci.net/vinograd/slike/sorte/sorte07_merlot_crni.jpg"
   },
   {
     "id": 8,
     "ime": "Teranac crni",
     "opis": "Teranac, ili Teran, je sorta crnog grožđa koja se uglavnom uzgaja u Istri. Daje vina s jakim taninima i voćnim aromama poput crnih bobica i šljiva, te karakterističnom kiselošću."
+  ,"link":"https://www.krizevci.net/vinograd/slike/sorte/sorte15_teran_crni.jpg"
   },
   {
     "id": 9,
     "ime": "Rajnski rizling",
     "opis": "Rajnski rizling, poznat i kao Riesling, je sorta koja daje vina s visokom kiselošću i kompleksnim aromama. Karakteriziraju ga voćne note poput limuna, breskve i zelenih jabuka, te mineralni tonovi."
+  ,"link":"https://www.njuskalo.hr/image-w920x690/voce-povrce/prodajem-grozde-rajnski-rizling-slika-72990943.jpg"
   },
  {
     "id": 10,
     "ime": "Chardonnay",
     "opis": "Chardonnay je sorta bijelog grožđa koja daje širok spektar vina, od svježih i voćnih do punih i masnih. Arome mogu varirati od zelenih jabuka i citrusa do maslaca, vanilije i orašastih plodova, ovisno o načinu proizvodnje i podneblju."
-  },
+ ,"link":"https://www.njuskalo.hr/image-w920x690/voce-povrce/grozde-chardonnay-slika-72155951.jpg" 
+ },
   {
     "id": 11,
     "ime": "Rizvanac bijeli",
     "opis": "Rizvanac je sorta bijelog grožđa koja se često uzgaja u Hrvatskoj. Daje svijetla, osvježavajuća vina s voćnim aromama poput jabuka i krušaka, te ugodnom kiselošću."
+  ,"link":"https://www.krizevci.net/vinograd/slike/sorte/sorte12_rizvanac_bijeli.jpg"
   },
   {
     "id": 12,
     "ime": "Škrlet bijeli",
     "opis": "Škrlet je sorta koja se uglavnom uzgaja u kontinentalnoj Hrvatskoj, posebno u regiji Moslavini. Daje lagana, voćna vina s niskom kiselošću i aromama crvenog voća poput jagoda i malina."
+  ,"link":"https://ziviselo.com/wp-content/uploads/2012/06/pejic_02skrletgrozdilist.jpg"
   }
 ],
   "profile": {
